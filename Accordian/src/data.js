@@ -17,5 +17,10 @@ const data=[
   answer:
     "The accordion is a musical instrument with a keyboard and bellows. It produces sound when air flows through reeds as the bellows are expanded or compressed."
 },
+{
+  id:'4',
+  question:"What is React",
+  answer:"React is the frontend Library"
+}
 ]
 export default data;
